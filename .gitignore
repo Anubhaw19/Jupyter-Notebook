@@ -1,0 +1,6 @@
+#ignore env directory
+/env
+
+#ignore environment variacles
+.env
+
